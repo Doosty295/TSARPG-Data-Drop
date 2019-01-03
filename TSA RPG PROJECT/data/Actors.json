@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Chemist Battler","characterIndex":1,"characterName":"CustomWalks","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"CustomCharFaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chemist","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Programmer Battler","characterIndex":3,"characterName":"CustomWalks","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"CustomCharFaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Programmer","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Engineer Battler","characterIndex":2,"characterName":"CustomWalks","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"CustomCharFaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Engineer","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Mathemetician Battler","characterIndex":0,"characterName":"CustomWalks","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"CustomCharFaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mathematician","nickname":"","note":"","profile":""}
+]
